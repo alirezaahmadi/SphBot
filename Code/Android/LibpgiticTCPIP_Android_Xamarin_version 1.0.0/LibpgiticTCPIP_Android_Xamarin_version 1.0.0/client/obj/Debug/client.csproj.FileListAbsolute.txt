@@ -1,0 +1,27 @@
+D:\myPGITIC\pgitictcp\Android\server\client\bin\Debug\client.dll
+D:\myPGITIC\pgitictcp\Android\server\client\bin\Debug\client.pdb
+D:\myPGITIC\pgitictcp\Android\server\client\bin\Debug\client.dll.mdb
+D:\myPGITIC\pgitictcp\Android\server\client\bin\Debug\client.client.apk
+D:\myPGITIC\pgitictcp\Android\server\client\bin\Debug\client.client-Signed.apk
+D:\myPGITIC\pgitictcp\Android\server\client\obj\Debug\client.dll
+D:\myPGITIC\pgitictcp\Android\server\client\obj\Debug\client.pdb
+D:\myPGITIC\pgitictcp\Android\server\client\obj\Debug\android\bin\client.client.apk
+D:\myPGITIC\pgitictcp\Android\server\client\obj\Debug\res\layout\main.xml
+D:\myPGITIC\pgitictcp\Android\server\client\obj\Debug\res\values\strings.xml
+D:\myPGITIC\pgitictcp\Android\server\client\obj\Debug\res\drawable\icon.png
+D:\myPGITIC\pgitictcp\Android\server\client\obj\Debug\R.cs.flag
+D:\myPGITIC\pgitictcp\Android\server\client\obj\Debug\uploadflags.txt
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\bin\Debug\client.dll
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\bin\Debug\client.pdb
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\bin\Debug\client.dll.mdb
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\bin\Debug\client.client.apk
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\bin\Debug\client.client-Signed.apk
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\obj\Debug\client.dll
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\obj\Debug\client.pdb
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\obj\Debug\android\bin\client.client.apk
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\obj\Debug\res\layout\main.xml
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\obj\Debug\res\values\strings.xml
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\obj\Debug\res\drawable\icon.png
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\obj\Debug\R.cs.flag
+E:\myDrive\SHAIRE ON PIGITIC\SOURCE\TCP_IP Libraries\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\LibpgiticTCPIP_Android_Xamarin_version 1.0.0\client\obj\Debug\uploadflags.txt

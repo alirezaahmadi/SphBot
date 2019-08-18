@@ -1,0 +1,14 @@
+D:\myPGITIC\pgitictcp\Android\server\server\bin\Debug\server.dll
+D:\myPGITIC\pgitictcp\Android\server\server\bin\Debug\server.pdb
+D:\myPGITIC\pgitictcp\Android\server\server\bin\Debug\server.dll.mdb
+D:\myPGITIC\pgitictcp\Android\server\server\bin\Debug\server.server.apk
+D:\myPGITIC\pgitictcp\Android\server\server\bin\Debug\server.server-Signed.apk
+D:\myPGITIC\pgitictcp\Android\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\myPGITIC\pgitictcp\Android\server\server\obj\Debug\server.dll
+D:\myPGITIC\pgitictcp\Android\server\server\obj\Debug\server.pdb
+D:\myPGITIC\pgitictcp\Android\server\server\obj\Debug\android\bin\server.server.apk
+D:\myPGITIC\pgitictcp\Android\server\server\obj\Debug\res\layout\main.xml
+D:\myPGITIC\pgitictcp\Android\server\server\obj\Debug\res\values\strings.xml
+D:\myPGITIC\pgitictcp\Android\server\server\obj\Debug\res\drawable\icon.png
+D:\myPGITIC\pgitictcp\Android\server\server\obj\Debug\R.cs.flag
+D:\myPGITIC\pgitictcp\Android\server\server\obj\Debug\uploadflags.txt

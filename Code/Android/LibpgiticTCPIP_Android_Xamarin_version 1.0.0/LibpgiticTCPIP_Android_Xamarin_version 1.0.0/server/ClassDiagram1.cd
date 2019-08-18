@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="server.MainActivity" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEEACABAACAAQAAAAIAAAA=</HashCode>
+      <FileName>MainActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.Resource" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.my_server">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="server.my_server.TCPEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>server.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAACAAAEAAAAAAEAAEAAAAABAAAAAA=</HashCode>
+      <FileName>server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.TCPEventArgs" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>server_manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.server_manager">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="server.server_manager.ManagerEventArgs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>server_manager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Delegate Name="server.server_manager.del_update_status" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>server_manager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="server.server_manager.TCPEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>server_manager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="server.server_manager.ManagerEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>server_manager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAIBAAAAAAAAQAAAAAAkAAgACMAAAAEA=</HashCode>
+      <FileName>server_manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
